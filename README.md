@@ -312,3 +312,4 @@ El vendedor tiene un **dashboard privado** donde puede:
 * Interfaz multilenguaje (español e inglés mínimo).
 * Detalles regionales (formatos de fecha, moneda, etc.).# WedVentas_2.0
 # WedVentas_2.0
+# WedVentas_2.0
